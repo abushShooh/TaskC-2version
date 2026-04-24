@@ -1,0 +1,14 @@
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\bin\Debug\net10.0\classTask.exe
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\bin\Debug\net10.0\classTask.deps.json
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\bin\Debug\net10.0\classTask.runtimeconfig.json
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\bin\Debug\net10.0\classTask.dll
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\bin\Debug\net10.0\classTask.pdb
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.AssemblyInfo.cs
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.dll
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\refint\classTask.dll
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.pdb
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\classTask.genruntimeconfig.cache
+C:\Users\Boss\Desktop\TASK2v\15april\classTask\obj\Debug\net10.0\ref\classTask.dll
