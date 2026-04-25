@@ -1,0 +1,16 @@
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\bin\Debug\net10.0\Domain.dll
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\bin\Debug\net10.0\Domain.pdb
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+C:\Users\Boss\Desktop\TASK2v\24april\classTask\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll

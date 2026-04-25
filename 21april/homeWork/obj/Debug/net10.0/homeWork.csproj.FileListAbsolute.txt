@@ -1,0 +1,15 @@
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\bin\Debug\net10.0\homeWork.exe
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\bin\Debug\net10.0\homeWork.deps.json
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\bin\Debug\net10.0\homeWork.runtimeconfig.json
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\bin\Debug\net10.0\homeWork.dll
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\bin\Debug\net10.0\homeWork.pdb
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.AssemblyInfo.cs
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.sourcelink.json
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.dll
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\refint\homeWork.dll
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.pdb
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\homeWork.genruntimeconfig.cache
+C:\Users\Boss\Desktop\TASK2v\21april\homeWork\obj\Debug\net10.0\ref\homeWork.dll
