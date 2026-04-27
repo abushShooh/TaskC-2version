@@ -1,0 +1,15 @@
+C:\Users\Boss\Desktop\TASK2v\27april\bin\Debug\net10.0\27april.exe
+C:\Users\Boss\Desktop\TASK2v\27april\bin\Debug\net10.0\27april.deps.json
+C:\Users\Boss\Desktop\TASK2v\27april\bin\Debug\net10.0\27april.runtimeconfig.json
+C:\Users\Boss\Desktop\TASK2v\27april\bin\Debug\net10.0\27april.dll
+C:\Users\Boss\Desktop\TASK2v\27april\bin\Debug\net10.0\27april.pdb
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.AssemblyInfo.cs
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.sourcelink.json
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.dll
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\refint\27april.dll
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.pdb
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\27april.genruntimeconfig.cache
+C:\Users\Boss\Desktop\TASK2v\27april\obj\Debug\net10.0\ref\27april.dll
